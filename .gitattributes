@@ -1,1 +1,2 @@
 dataset/ncrna.csv.zip filter=lfs diff=lfs merge=lfs -text
+dataset/Rfam.fa.zip filter=lfs diff=lfs merge=lfs -text
